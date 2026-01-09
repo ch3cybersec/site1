@@ -1,0 +1,16 @@
+<?php
+echo "Olá Fred";
+?>
+
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Sobre Nós</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href=""> <!-- Opcional: para estilizar com CSS -->
+	</head>
+	<body>
+		<h1>Bem-vindo ao Meu Site!</h1>
+		<p><footer>Copyright 2026</footer></p>
+	</body>
+</html>
